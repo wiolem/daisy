@@ -1,0 +1,22 @@
+{
+  "name": "daisy",
+  "version": "1.0.0",
+  "repository": "https://github.com/wiolem/docne",
+  "author": {
+    "name": "Lee",
+    "email": "wiolem@hotmail.com",
+    "url": "https://wiolem.github.com"
+  },
+  "scripts": {
+    "dev": "docne dev",
+    "build": "docne build",
+    "start": "docne start"
+  },
+  "dependencies": {
+    "docne": "latest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "cac": "^6.7.2"
+  }
+}
