@@ -10,13 +10,16 @@
   "scripts": {
     "dev": "docne dev",
     "build": "docne build",
-    "start": "docne start"
+    "start": "docne start",
+    "export": "docne export",
+    "now-build": "npm run build && npm run export"
   },
   "dependencies": {
     "docne": "latest"
   },
   "license": "MIT",
   "devDependencies": {
+    "@now/static-build": "^0.18.0",
     "cac": "^6.7.2"
   }
 }
