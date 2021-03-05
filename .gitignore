@@ -106,3 +106,5 @@ dist
 .docne/
 
 build
+
+.vercel

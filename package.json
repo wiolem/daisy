@@ -12,14 +12,13 @@
     "build": "docne build",
     "start": "docne start",
     "export": "docne export",
-    "now-build": "npm run build && npm run export"
+    "vercel": "docne vercel"
   },
   "dependencies": {
     "docne": "latest"
   },
   "license": "MIT",
   "devDependencies": {
-    "@now/static-build": "^0.18.0",
     "cac": "^6.7.2"
   }
 }

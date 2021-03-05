@@ -1,0 +1,8 @@
+{
+  "categories": [
+    {
+      "docs": [{ "title": "Example", "path": "/example" }],
+      "category": "Guide"
+    }
+  ]
+}
