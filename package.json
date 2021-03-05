@@ -12,11 +12,7 @@
     "build": "docne build",
     "start": "docne start",
     "export": "docne export",
-<<<<<<< HEAD
     "vercel": "docne vercel"
-=======
-    "vercel-build": "npm run build"
->>>>>>> 4c35f8ba8590a94676910f5b2aa404c9005e1ce8
   },
   "dependencies": {
     "docne": "latest"
